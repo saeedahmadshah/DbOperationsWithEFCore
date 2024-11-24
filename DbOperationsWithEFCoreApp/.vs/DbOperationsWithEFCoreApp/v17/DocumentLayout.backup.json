@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Work\\Courses\\Entity Framework Core\\src\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7EEB5F-081F-45BD-8A71-6675611F92A2}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|c:\\work\\courses\\entity framework core\\src\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE7EEB5F-081F-45BD-8A71-6675611F92A2}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7EEB5F-081F-45BD-8A71-6675611F92A2}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|c:\\work\\courses\\entity framework core\\src\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7EEB5F-081F-45BD-8A71-6675611F92A2}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7EEB5F-081F-45BD-8A71-6675611F92A2}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|c:\\work\\courses\\entity framework core\\src\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\data\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7EEB5F-081F-45BD-8A71-6675611F92A2}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\data\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Work\\Courses\\Entity Framework Core\\src\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\appsettings.json",
+              "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\appsettings.json",
+              "ToolTip": "C:\\Work\\Courses\\Entity Framework Core\\src\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\appsettings.json",
+              "RelativeToolTip": "DbOperationsWithEFCoreApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T18:01:31.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\Courses\\Entity Framework Core\\src\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\Program.cs",
+              "ToolTip": "C:\\Work\\Courses\\Entity Framework Core\\src\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Program.cs",
+              "RelativeToolTip": "DbOperationsWithEFCoreApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:58:49.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddDbContext.cs",
+              "DocumentMoniker": "C:\\Work\\Courses\\Entity Framework Core\\src\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Data\\AddDbContext.cs",
+              "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\Data\\AddDbContext.cs",
+              "ToolTip": "C:\\Work\\Courses\\Entity Framework Core\\src\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Data\\AddDbContext.cs",
+              "RelativeToolTip": "DbOperationsWithEFCoreApp\\Data\\AddDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:55:37.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
